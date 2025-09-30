@@ -1,0 +1,840 @@
+[
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Pet",
+        "importPath": "app.models.pet",
+        "description": "app.models.pet",
+        "isExtraImport": true,
+        "detail": "app.models.pet",
+        "documentation": {}
+    },
+    {
+        "label": "PetCreate",
+        "importPath": "app.schemas.pet",
+        "description": "app.schemas.pet",
+        "isExtraImport": true,
+        "detail": "app.schemas.pet",
+        "documentation": {}
+    },
+    {
+        "label": "Pet",
+        "importPath": "app.schemas.pet",
+        "description": "app.schemas.pet",
+        "isExtraImport": true,
+        "detail": "app.schemas.pet",
+        "documentation": {}
+    },
+    {
+        "label": "PetCreate",
+        "importPath": "app.schemas.pet",
+        "description": "app.schemas.pet",
+        "isExtraImport": true,
+        "detail": "app.schemas.pet",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Date",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Float",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "crud",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "crud",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "Client",
+        "importPath": "app.schemas.client",
+        "description": "app.schemas.client",
+        "isExtraImport": true,
+        "detail": "app.schemas.client",
+        "documentation": {}
+    },
+    {
+        "label": "ClientCreate",
+        "importPath": "app.schemas.client",
+        "description": "app.schemas.client",
+        "isExtraImport": true,
+        "detail": "app.schemas.client",
+        "documentation": {}
+    },
+    {
+        "label": "ClientCreate",
+        "importPath": "app.schemas.client",
+        "description": "app.schemas.client",
+        "isExtraImport": true,
+        "detail": "app.schemas.client",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.database",
+        "description": "app.database",
+        "isExtraImport": true,
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Client",
+        "importPath": "app.models.client",
+        "description": "app.models.client",
+        "isExtraImport": true,
+        "detail": "app.models.client",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "client_router",
+        "importPath": "app.routers",
+        "description": "app.routers",
+        "isExtraImport": true,
+        "detail": "app.routers",
+        "documentation": {}
+    },
+    {
+        "label": "pet_router",
+        "importPath": "app.routers",
+        "description": "app.routers",
+        "isExtraImport": true,
+        "detail": "app.routers",
+        "documentation": {}
+    },
+    {
+        "label": "create_pet",
+        "kind": 2,
+        "importPath": "app.controllers.pet",
+        "description": "app.controllers.pet",
+        "peekOfCode": "def create_pet(db: Session, pet: PetCreate):\n    try:\n        db_pet = PetModel(**pet.dict())\n        db.add(db_pet)\n        db.commit()\n        db.refresh(db_pet)\n        return db_pet\n    except Exception as e:\n        db.rollback()\n        print(\"❌ Error en create_pet:\", e)",
+        "detail": "app.controllers.pet",
+        "documentation": {}
+    },
+    {
+        "label": "get_pets",
+        "kind": 2,
+        "importPath": "app.controllers.pet",
+        "description": "app.controllers.pet",
+        "peekOfCode": "def get_pets(db: Session, skip: int = 0, limit: int = 10):\n    return db.query(PetModel).offset(skip).limit(limit).all()\ndef get_pet(db: Session, pet_id: int):\n    return db.query(PetModel).filter(PetModel.id == pet_id).first()\ndef update_pet(db: Session, pet_id: int, pet_data: PetCreate):\n    pet = db.query(PetModel).filter(PetModel.id == pet_id).first()\n    if pet:\n        for key, value in pet_data.dict().items():\n            setattr(pet, key, value)\n        db.commit()",
+        "detail": "app.controllers.pet",
+        "documentation": {}
+    },
+    {
+        "label": "get_pet",
+        "kind": 2,
+        "importPath": "app.controllers.pet",
+        "description": "app.controllers.pet",
+        "peekOfCode": "def get_pet(db: Session, pet_id: int):\n    return db.query(PetModel).filter(PetModel.id == pet_id).first()\ndef update_pet(db: Session, pet_id: int, pet_data: PetCreate):\n    pet = db.query(PetModel).filter(PetModel.id == pet_id).first()\n    if pet:\n        for key, value in pet_data.dict().items():\n            setattr(pet, key, value)\n        db.commit()\n        db.refresh(pet)\n    return pet",
+        "detail": "app.controllers.pet",
+        "documentation": {}
+    },
+    {
+        "label": "update_pet",
+        "kind": 2,
+        "importPath": "app.controllers.pet",
+        "description": "app.controllers.pet",
+        "peekOfCode": "def update_pet(db: Session, pet_id: int, pet_data: PetCreate):\n    pet = db.query(PetModel).filter(PetModel.id == pet_id).first()\n    if pet:\n        for key, value in pet_data.dict().items():\n            setattr(pet, key, value)\n        db.commit()\n        db.refresh(pet)\n    return pet\ndef delete_pet(db: Session, pet_id: int):\n    pet = db.query(PetModel).filter(PetModel.id == pet_id).first()",
+        "detail": "app.controllers.pet",
+        "documentation": {}
+    },
+    {
+        "label": "delete_pet",
+        "kind": 2,
+        "importPath": "app.controllers.pet",
+        "description": "app.controllers.pet",
+        "peekOfCode": "def delete_pet(db: Session, pet_id: int):\n    pet = db.query(PetModel).filter(PetModel.id == pet_id).first()\n    if pet:\n        db.delete(pet)\n        db.commit()\n    return pet",
+        "detail": "app.controllers.pet",
+        "documentation": {}
+    },
+    {
+        "label": "Client",
+        "kind": 6,
+        "importPath": "app.models.client",
+        "description": "app.models.client",
+        "peekOfCode": "class Client(Base):\n    # Nombre de la tabla en la base de datos\n    __tablename__ = \"clients\"\n    # Columna ID -> clave primaria de la tabla, tipo entero\n    # primary_key=True: identifica de forma única cada fila\n    # index=True: crea un índice para búsquedas más rápidas\n    id = Column(Integer, primary_key=True, index=True)\n    # Columna name -> almacena el nombre del cliente\n    # String(255): hasta 255 caracteres\n    # nullable=False: obligatorio (no puede ser nulo)",
+        "detail": "app.models.client",
+        "documentation": {}
+    },
+    {
+        "label": "Pet",
+        "kind": 6,
+        "importPath": "app.models.pet",
+        "description": "app.models.pet",
+        "peekOfCode": "class Pet(Base):\n    __tablename__=\"pets\"\n    id = Column(Integer, primary_key=True, index=True)\n    name = Column(String(100), nullable=False)                 # Nombre de la mascota\n    especie = Column(String(50), nullable=False)               # Especie (perro, gato, etc.)\n    raza = Column(String(100), nullable=True)                  # Raza\n    sexo = Column(String(20), nullable=True)                   # Sexo\n    nacimiento = Column(Date, nullable=True)                   # Fecha de nacimiento\n    caracteristicas = Column(String(255), nullable=True)       # Características físicas\n    dueno = Column(String(100), nullable=False)                # Dueño (texto por ahora)",
+        "detail": "app.models.pet",
+        "documentation": {}
+    },
+    {
+        "label": "create_client",
+        "kind": 2,
+        "importPath": "app.routers.client_router",
+        "description": "app.routers.client_router",
+        "peekOfCode": "def create_client(client: ClientCreate, db: Session = Depends(get_db)):\n    \"\"\"\n    Recibe los datos de un cliente y los guarda en la base de datos.\n    - client: datos que envía el usuario (nombre, email, etc.)\n    - db: sesión de la base de datos que FastAPI inyecta automáticamente\n    \"\"\"\n    # Llamamos a la función CRUD para crear el cliente y devolver el registro creado\n    return crud.create_client(db=db, client=client)\n# -------------------------------------------------\n# Endpoint para obtener todos los clientes",
+        "detail": "app.routers.client_router",
+        "documentation": {}
+    },
+    {
+        "label": "read_clients",
+        "kind": 2,
+        "importPath": "app.routers.client_router",
+        "description": "app.routers.client_router",
+        "peekOfCode": "def read_clients(skip: int = 0, limit: int = 10, db: Session = Depends(get_db)):\n    \"\"\"\n    Obtiene todos los clientes de la base de datos con paginación.\n    - skip: cuántos registros saltar (útil para paginar)\n    - limit: cuántos registros devolver\n    \"\"\"\n    # Llamamos a la función CRUD que devuelve los clientes de la DB\n    return crud.get_clients(db, skip=skip, limit=limit)\n# -------------------------------------------------\n# Endpoint para obtener un cliente por su ID",
+        "detail": "app.routers.client_router",
+        "documentation": {}
+    },
+    {
+        "label": "read_client",
+        "kind": 2,
+        "importPath": "app.routers.client_router",
+        "description": "app.routers.client_router",
+        "peekOfCode": "def read_client(client_id: int, db: Session = Depends(get_db)):\n    \"\"\"\n    Busca un cliente específico por su ID.\n    \"\"\"\n    # Llamamos a la función CRUD que busca el cliente en la DB\n    db_client = crud.get_client(db, client_id=client_id)\n    # Si no existe, devolvemos un error 404 al usuario\n    if db_client is None:\n        raise HTTPException(status_code=404, detail=\"Client not found\")\n    # Si existe, devolvemos los datos del cliente",
+        "detail": "app.routers.client_router",
+        "documentation": {}
+    },
+    {
+        "label": "update_client",
+        "kind": 2,
+        "importPath": "app.routers.client_router",
+        "description": "app.routers.client_router",
+        "peekOfCode": "def update_client(client_id: int, client: ClientCreate, db: Session = Depends(get_db)):\n    \"\"\"\n    Actualiza los datos de un cliente existente.\n    \"\"\"\n    # Llamamos a la función CRUD que actualiza los datos en la DB\n    db_client = crud.update_client(db, client_id=client_id, client_data=client)\n    # Si el cliente no existe, devolvemos error 404\n    if db_client is None:\n        raise HTTPException(status_code=404, detail=\"Client not found\")\n    # Si se actualizó correctamente, devolvemos el cliente actualizado",
+        "detail": "app.routers.client_router",
+        "documentation": {}
+    },
+    {
+        "label": "delete_client",
+        "kind": 2,
+        "importPath": "app.routers.client_router",
+        "description": "app.routers.client_router",
+        "peekOfCode": "def delete_client(client_id: int, db: Session = Depends(get_db)):\n    \"\"\"\n    Elimina un cliente por su ID.\n    \"\"\"\n    # Llamamos a la función CRUD que elimina el cliente de la DB\n    db_client = crud.delete_client(db, client_id=client_id)\n    # Si no existe, devolvemos error 404\n    if db_client is None:\n        raise HTTPException(status_code=404, detail=\"Client not found\")\n    # Si se eliminó correctamente, devolvemos un mensaje de confirmación",
+        "detail": "app.routers.client_router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.routers.client_router",
+        "description": "app.routers.client_router",
+        "peekOfCode": "router = APIRouter(prefix=\"/v1/client\", tags=[\"client\"])\n# -------------------------------------------------\n# Endpoint para crear un cliente\n# -------------------------------------------------\n@router.post(\"/caut\", response_model=Client)  # response_model valida la respuesta\ndef create_client(client: ClientCreate, db: Session = Depends(get_db)):\n    \"\"\"\n    Recibe los datos de un cliente y los guarda en la base de datos.\n    - client: datos que envía el usuario (nombre, email, etc.)\n    - db: sesión de la base de datos que FastAPI inyecta automáticamente",
+        "detail": "app.routers.client_router",
+        "documentation": {}
+    },
+    {
+        "label": "create_pet",
+        "kind": 2,
+        "importPath": "app.routers.pet_router",
+        "description": "app.routers.pet_router",
+        "peekOfCode": "def create_pet(pet: PetCreate, db: Session = Depends(get_db)):\n    return crud.create_pet(db=db, pet=pet)\n# Listar mascotas\n@router.get(\"/gaut\", response_model=List[Pet])\ndef read_pets(skip: int = 0, limit: int = 10, db: Session = Depends(get_db)):\n    return crud.get_pets(db, skip=skip, limit=limit)\n# Obtener mascota por ID\n@router.get(\"/gaut/{pet_id}\", response_model=Pet)\ndef read_pet(pet_id: int, db: Session = Depends(get_db)):\n    db_pet = crud.get_pet(db, pet_id=pet_id)",
+        "detail": "app.routers.pet_router",
+        "documentation": {}
+    },
+    {
+        "label": "read_pets",
+        "kind": 2,
+        "importPath": "app.routers.pet_router",
+        "description": "app.routers.pet_router",
+        "peekOfCode": "def read_pets(skip: int = 0, limit: int = 10, db: Session = Depends(get_db)):\n    return crud.get_pets(db, skip=skip, limit=limit)\n# Obtener mascota por ID\n@router.get(\"/gaut/{pet_id}\", response_model=Pet)\ndef read_pet(pet_id: int, db: Session = Depends(get_db)):\n    db_pet = crud.get_pet(db, pet_id=pet_id)\n    if db_pet is None:\n        raise HTTPException(status_code=404, detail=\"Pet not found\")\n    return db_pet\n# Actualizar mascota",
+        "detail": "app.routers.pet_router",
+        "documentation": {}
+    },
+    {
+        "label": "read_pet",
+        "kind": 2,
+        "importPath": "app.routers.pet_router",
+        "description": "app.routers.pet_router",
+        "peekOfCode": "def read_pet(pet_id: int, db: Session = Depends(get_db)):\n    db_pet = crud.get_pet(db, pet_id=pet_id)\n    if db_pet is None:\n        raise HTTPException(status_code=404, detail=\"Pet not found\")\n    return db_pet\n# Actualizar mascota\n@router.put(\"/uaut/{pet_id}\", response_model=Pet)\ndef update_pet(pet_id: int, pet: PetCreate, db: Session = Depends(get_db)):\n    db_pet = crud.update_pet(db, pet_id=pet_id, pet_data=pet)\n    if db_pet is None:",
+        "detail": "app.routers.pet_router",
+        "documentation": {}
+    },
+    {
+        "label": "update_pet",
+        "kind": 2,
+        "importPath": "app.routers.pet_router",
+        "description": "app.routers.pet_router",
+        "peekOfCode": "def update_pet(pet_id: int, pet: PetCreate, db: Session = Depends(get_db)):\n    db_pet = crud.update_pet(db, pet_id=pet_id, pet_data=pet)\n    if db_pet is None:\n        raise HTTPException(status_code=404, detail=\"Pet not found\")\n    return db_pet\n# Eliminar mascota\n@router.delete(\"/daut/{pet_id}\")\ndef delete_pet(pet_id: int, db: Session = Depends(get_db)):\n    db_pet = crud.delete_pet(db, pet_id=pet_id)\n    if db_pet is None:",
+        "detail": "app.routers.pet_router",
+        "documentation": {}
+    },
+    {
+        "label": "delete_pet",
+        "kind": 2,
+        "importPath": "app.routers.pet_router",
+        "description": "app.routers.pet_router",
+        "peekOfCode": "def delete_pet(pet_id: int, db: Session = Depends(get_db)):\n    db_pet = crud.delete_pet(db, pet_id=pet_id)\n    if db_pet is None:\n        raise HTTPException(status_code=404, detail=\"Pet not found\")\n    return {\"message\": \"Pet deleted successfully\"}",
+        "detail": "app.routers.pet_router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.routers.pet_router",
+        "description": "app.routers.pet_router",
+        "peekOfCode": "router = APIRouter(prefix=\"/v1/pet\", tags=[\"pet\"])\n# Crear mascota\n@router.post(\"/caut\", response_model=Pet)\ndef create_pet(pet: PetCreate, db: Session = Depends(get_db)):\n    return crud.create_pet(db=db, pet=pet)\n# Listar mascotas\n@router.get(\"/gaut\", response_model=List[Pet])\ndef read_pets(skip: int = 0, limit: int = 10, db: Session = Depends(get_db)):\n    return crud.get_pets(db, skip=skip, limit=limit)\n# Obtener mascota por ID",
+        "detail": "app.routers.pet_router",
+        "documentation": {}
+    },
+    {
+        "label": "ClientBase",
+        "kind": 6,
+        "importPath": "app.schemas.client",
+        "description": "app.schemas.client",
+        "peekOfCode": "class ClientBase(BaseModel):\n    # Campos obligatorios (siempre deben venir)\n    name: str          # Nombre del cliente\n    email: str         # Correo electrónico del cliente\n    # Campos opcionales (pueden venir o no)\n    telephone: str | None = None   # Teléfono del cliente\n    address: str | None = None     # Dirección\n    city: str | None = None        # Ciudad\n    description: str | None = None # Descripción adicional\n# ---------------------------------------------------",
+        "detail": "app.schemas.client",
+        "documentation": {}
+    },
+    {
+        "label": "ClientCreate",
+        "kind": 6,
+        "importPath": "app.schemas.client",
+        "description": "app.schemas.client",
+        "peekOfCode": "class ClientCreate(ClientBase):\n    # Este esquema se usa cuando enviamos datos para crear un cliente\n    # Hereda todos los campos de ClientBase\n    # No necesita nada más por ahora\n    pass\n# ---------------------------------------------------\n# Esquema para LEER cliente (respuesta)\n# ---------------------------------------------------\nclass Client(ClientBase):\n    # Además de los campos de ClientBase, agregamos el id",
+        "detail": "app.schemas.client",
+        "documentation": {}
+    },
+    {
+        "label": "Client",
+        "kind": 6,
+        "importPath": "app.schemas.client",
+        "description": "app.schemas.client",
+        "peekOfCode": "class Client(ClientBase):\n    # Además de los campos de ClientBase, agregamos el id\n    # porque cuando obtenemos datos de la DB siempre queremos saber su identificador\n    id: int\n    class Config:\n        # Permite que Pydantic pueda trabajar con objetos de SQLAlchemy\n        # Convierte automáticamente objetos de la DB en modelos Pydantic\n        from_attributes = True\n# ---------------------------------------------------\n# Explicación general:",
+        "detail": "app.schemas.client",
+        "documentation": {}
+    },
+    {
+        "label": "PetBase",
+        "kind": 6,
+        "importPath": "app.schemas.pet",
+        "description": "app.schemas.pet",
+        "peekOfCode": "class PetBase(BaseModel):\n    name: str\n    especie: str\n    raza: Optional[str] = None\n    sexo: Optional[str] = None\n    nacimiento: Optional[date] = None\n    caracteristicas: Optional[str] = None\n    dueno: str\n    foto: Optional[str] = None\nclass PetCreate(PetBase):",
+        "detail": "app.schemas.pet",
+        "documentation": {}
+    },
+    {
+        "label": "PetCreate",
+        "kind": 6,
+        "importPath": "app.schemas.pet",
+        "description": "app.schemas.pet",
+        "peekOfCode": "class PetCreate(PetBase):\n    pass\nclass Pet(PetBase):\n    id: int\n    class Config:\n        from_attributes = True  # Pydantic v2 (antes orm_mode = True)",
+        "detail": "app.schemas.pet",
+        "documentation": {}
+    },
+    {
+        "label": "Pet",
+        "kind": 6,
+        "importPath": "app.schemas.pet",
+        "description": "app.schemas.pet",
+        "peekOfCode": "class Pet(PetBase):\n    id: int\n    class Config:\n        from_attributes = True  # Pydantic v2 (antes orm_mode = True)",
+        "detail": "app.schemas.pet",
+        "documentation": {}
+    },
+    {
+        "label": "create_client",
+        "kind": 2,
+        "importPath": "app.crud",
+        "description": "app.crud",
+        "peekOfCode": "def create_client(db: Session, client: ClientCreate):\n    \"\"\"\n    Crea un nuevo cliente en la base de datos.\n    \"\"\"\n    # Creamos un objeto ClientModel usando los datos que recibimos\n    db_client = ClientModel(**client.dict())  \n    # Lo agregamos a la sesión de la base de datos\n    db.add(db_client)\n    # Guardamos los cambios en la base de datos\n    db.commit()",
+        "detail": "app.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_clients",
+        "kind": 2,
+        "importPath": "app.crud",
+        "description": "app.crud",
+        "peekOfCode": "def get_clients(db: Session, skip: int = 0, limit: int = 10):\n    \"\"\"\n    Devuelve una lista de clientes de la base de datos con paginación.\n    - skip: cuántos registros saltar\n    - limit: cuántos registros devolver\n    \"\"\"\n    # Consulta sobre ClientModel aplicando paginación\n    return db.query(ClientModel).offset(skip).limit(limit).all()\n# ---------------------------\n# Leer cliente por ID",
+        "detail": "app.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_client",
+        "kind": 2,
+        "importPath": "app.crud",
+        "description": "app.crud",
+        "peekOfCode": "def get_client(db: Session, client_id: int):\n    \"\"\"\n    Busca y devuelve un cliente por su ID.\n    - Si no existe, devuelve None\n    \"\"\"\n    return db.query(ClientModel).filter(ClientModel.id == client_id).first()\n# ---------------------------\n# Eliminar cliente\n# ---------------------------\ndef delete_client(db: Session, client_id: int):",
+        "detail": "app.crud",
+        "documentation": {}
+    },
+    {
+        "label": "delete_client",
+        "kind": 2,
+        "importPath": "app.crud",
+        "description": "app.crud",
+        "peekOfCode": "def delete_client(db: Session, client_id: int):\n    \"\"\"\n    Elimina un cliente por su ID.\n    \"\"\"\n    # Buscamos el cliente en la base de datos\n    client = db.query(ClientModel).filter(ClientModel.id == client_id).first()\n    if client:\n        # Si existe, lo eliminamos\n        db.delete(client)\n        db.commit()",
+        "detail": "app.crud",
+        "documentation": {}
+    },
+    {
+        "label": "update_client",
+        "kind": 2,
+        "importPath": "app.crud",
+        "description": "app.crud",
+        "peekOfCode": "def update_client(db: Session, client_id: int, client_data: ClientCreate):\n    \"\"\"\n    Actualiza los datos de un cliente existente.\n    \"\"\"\n    # Buscamos cliente por ID\n    client = db.query(ClientModel).filter(ClientModel.id == client_id).first()\n    if client:\n        # Recorremos los datos recibidos y actualizamos el cliente\n        for key, value in client_data.dict().items():\n            setattr(client, key, value)  # setattr cambia el valor del atributo",
+        "detail": "app.crud",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "def get_db():\n    \"\"\"\n    Esta función da una sesión de la base de datos para usar dentro de FastAPI.\n    \"\"\"\n    db = SessionLocal()  # Abrimos una nueva sesión\n    try:\n        yield db          # Entregamos la sesión al endpoint\n    finally:\n        db.close()        # Cerramos la sesión cuando terminamos",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "DB_USER",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "DB_USER = os.getenv(\"DB_USER\", \"root\")        # Nombre de usuario\nDB_PASS = os.getenv(\"DB_PASS\", \"password\")    # Contraseña\nDB_HOST = os.getenv(\"DB_HOST\", \"127.0.0.1\")   # Dirección del servidor\nDB_PORT = os.getenv(\"DB_PORT\", \"3306\")        # Puerto del servidor\nDB_NAME = os.getenv(\"DB_NAME\", \"test_db\")     # Nombre de la base de datos\n# Creamos la \"dirección completa\" para conectarnos a la base de datos\n# Esto le dice a SQLAlchemy cómo encontrar y entrar a la DB\nSQLALCHEMY_DATABASE_URL = f\"mysql+pymysql://{DB_USER}:{DB_PASS}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\n# -----------------------------------------------------\n# Configurar SQLAlchemy para trabajar con la base de datos",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PASS",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "DB_PASS = os.getenv(\"DB_PASS\", \"password\")    # Contraseña\nDB_HOST = os.getenv(\"DB_HOST\", \"127.0.0.1\")   # Dirección del servidor\nDB_PORT = os.getenv(\"DB_PORT\", \"3306\")        # Puerto del servidor\nDB_NAME = os.getenv(\"DB_NAME\", \"test_db\")     # Nombre de la base de datos\n# Creamos la \"dirección completa\" para conectarnos a la base de datos\n# Esto le dice a SQLAlchemy cómo encontrar y entrar a la DB\nSQLALCHEMY_DATABASE_URL = f\"mysql+pymysql://{DB_USER}:{DB_PASS}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\n# -----------------------------------------------------\n# Configurar SQLAlchemy para trabajar con la base de datos\n# -----------------------------------------------------",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "DB_HOST",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "DB_HOST = os.getenv(\"DB_HOST\", \"127.0.0.1\")   # Dirección del servidor\nDB_PORT = os.getenv(\"DB_PORT\", \"3306\")        # Puerto del servidor\nDB_NAME = os.getenv(\"DB_NAME\", \"test_db\")     # Nombre de la base de datos\n# Creamos la \"dirección completa\" para conectarnos a la base de datos\n# Esto le dice a SQLAlchemy cómo encontrar y entrar a la DB\nSQLALCHEMY_DATABASE_URL = f\"mysql+pymysql://{DB_USER}:{DB_PASS}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\n# -----------------------------------------------------\n# Configurar SQLAlchemy para trabajar con la base de datos\n# -----------------------------------------------------\n# Creamos el \"motor\" que se encarga de hablar con la base de datos",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "DB_PORT",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "DB_PORT = os.getenv(\"DB_PORT\", \"3306\")        # Puerto del servidor\nDB_NAME = os.getenv(\"DB_NAME\", \"test_db\")     # Nombre de la base de datos\n# Creamos la \"dirección completa\" para conectarnos a la base de datos\n# Esto le dice a SQLAlchemy cómo encontrar y entrar a la DB\nSQLALCHEMY_DATABASE_URL = f\"mysql+pymysql://{DB_USER}:{DB_PASS}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\n# -----------------------------------------------------\n# Configurar SQLAlchemy para trabajar con la base de datos\n# -----------------------------------------------------\n# Creamos el \"motor\" que se encarga de hablar con la base de datos\n# echo=True -> muestra en la consola todo lo que se hace (útil para revisar errores)",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "DB_NAME",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "DB_NAME = os.getenv(\"DB_NAME\", \"test_db\")     # Nombre de la base de datos\n# Creamos la \"dirección completa\" para conectarnos a la base de datos\n# Esto le dice a SQLAlchemy cómo encontrar y entrar a la DB\nSQLALCHEMY_DATABASE_URL = f\"mysql+pymysql://{DB_USER}:{DB_PASS}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\n# -----------------------------------------------------\n# Configurar SQLAlchemy para trabajar con la base de datos\n# -----------------------------------------------------\n# Creamos el \"motor\" que se encarga de hablar con la base de datos\n# echo=True -> muestra en la consola todo lo que se hace (útil para revisar errores)\nengine = create_engine(SQLALCHEMY_DATABASE_URL, echo=True, future=True)",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_DATABASE_URL",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "SQLALCHEMY_DATABASE_URL = f\"mysql+pymysql://{DB_USER}:{DB_PASS}@{DB_HOST}:{DB_PORT}/{DB_NAME}\"\n# -----------------------------------------------------\n# Configurar SQLAlchemy para trabajar con la base de datos\n# -----------------------------------------------------\n# Creamos el \"motor\" que se encarga de hablar con la base de datos\n# echo=True -> muestra en la consola todo lo que se hace (útil para revisar errores)\nengine = create_engine(SQLALCHEMY_DATABASE_URL, echo=True, future=True)\n# Creamos una \"fábrica de sesiones\" que nos permitirá abrir y cerrar conexiones a la DB\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n# Base para definir las tablas de la base de datos como clases de Python",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "engine = create_engine(SQLALCHEMY_DATABASE_URL, echo=True, future=True)\n# Creamos una \"fábrica de sesiones\" que nos permitirá abrir y cerrar conexiones a la DB\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n# Base para definir las tablas de la base de datos como clases de Python\nBase = declarative_base()\n# -----------------------------------------------------\n# Función para usar la base de datos dentro de FastAPI\n# -----------------------------------------------------\ndef get_db():\n    \"\"\"",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\n# Base para definir las tablas de la base de datos como clases de Python\nBase = declarative_base()\n# -----------------------------------------------------\n# Función para usar la base de datos dentro de FastAPI\n# -----------------------------------------------------\ndef get_db():\n    \"\"\"\n    Esta función da una sesión de la base de datos para usar dentro de FastAPI.\n    \"\"\"",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "app.database",
+        "description": "app.database",
+        "peekOfCode": "Base = declarative_base()\n# -----------------------------------------------------\n# Función para usar la base de datos dentro de FastAPI\n# -----------------------------------------------------\ndef get_db():\n    \"\"\"\n    Esta función da una sesión de la base de datos para usar dentro de FastAPI.\n    \"\"\"\n    db = SessionLocal()  # Abrimos una nueva sesión\n    try:",
+        "detail": "app.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def get_db():\n    \"\"\"\n    Crea una sesión de base de datos para usar en los endpoints\n    y la cierra automáticamente cuando termina.\n    \"\"\"\n    db = SessionLocal()  # abre una sesión\n    try:\n        yield db          # entrega la sesión al endpoint\n    finally:\n        db.close()        # cierra la sesión",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "app = FastAPI(title=\"Clients API\")  # Le damos un nombre a la aplicación\n# ----------------------------\n# Configurar los orígenes permitidos para CORS\n# ----------------------------\n# Esto permite que el frontend (que corre en diferentes puertos) pueda hacer peticiones al backend\norigins = [\n    \"http://localhost:5173\",\n    \"http://127.0.0.1:5173\",\n    \"http://localhost:5174\",\n    \"http://127.0.0.1:5174\",",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "origins",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "origins = [\n    \"http://localhost:5173\",\n    \"http://127.0.0.1:5173\",\n    \"http://localhost:5174\",\n    \"http://127.0.0.1:5174\",\n    \"http://localhost:5175\",\n    \"http://127.0.0.1:5175\",\n]\n# Agregamos el middleware de CORS a la aplicación\napp.add_middleware(",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class Product(Base):\n    __tablename__ = \"products\"  #nombre de la tabla en mysql\n    id = Column(Integer, primary_key=True, index=True)\n    name = Column(String(255), nullable=False)\n    price = Column(Float, nullable=False)\nclass Client(Base):\n    __tablename__ = \"clients\"  #nombre de la tabla en mysql\n    id = Column(Integer, primary_key=True, index=True)\n    full_name = Column(String(255), nullable=False)\n    email = Column(String(255), nullable=False, unique=True)",
+        "detail": "app.models",
+        "documentation": {}
+    },
+    {
+        "label": "Client",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class Client(Base):\n    __tablename__ = \"clients\"  #nombre de la tabla en mysql\n    id = Column(Integer, primary_key=True, index=True)\n    full_name = Column(String(255), nullable=False)\n    email = Column(String(255), nullable=False, unique=True)\n# Este archivo define los modelos ORM (tablas) usando SQLAlchemy.\n# Cada clase representa una tabla en la base de datos:\n# - Product: tabla \"products\" con columnas id, name y price\n# - Client: tabla \"clients\" con columnas id, full_name y email\n# Estos modelos se usan en crud.py para interactuar con la base de datos.",
+        "detail": "app.models",
+        "documentation": {}
+    }
+]

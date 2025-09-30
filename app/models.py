@@ -16,3 +16,8 @@ class Client(Base):
     full_name = Column(String(255), nullable=False)
     email = Column(String(255), nullable=False, unique=True)
     
+# Este archivo define los modelos ORM (tablas) usando SQLAlchemy.
+# Cada clase representa una tabla en la base de datos:
+# - Product: tabla "products" con columnas id, name y price
+# - Client: tabla "clients" con columnas id, full_name y email
+# Estos modelos se usan en crud.py para interactuar con la base de datos.

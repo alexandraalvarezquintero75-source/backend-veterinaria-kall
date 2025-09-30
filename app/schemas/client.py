@@ -1,62 +1,46 @@
-# from pydantic import BaseModel
-
-# class ClientCreate(BaseModel):
-#     name: str
-#     email: str
-#     telephone: str | None = None
-#     address: str | None = None
-#     city: str | None = None
-#     description: str | None = None
-
-# class ClientResponse(BaseModel):
-#     id: int
-#     name: str
-#     email: str
-#     telephone: str | None = None
-#     address: str | None = None
-#     city: str | None = None
-#     description: str | None = None
-
-#     class Config:
-# #         orm_mode = True  # Importante para devolver objetos SQLAlchemy
-# from pydantic import BaseModel, EmailStr
-# from typing import Optional
-
-# class ClientBase(BaseModel):
-#     name: str
-#     email: EmailStr
-#     telephone: Optional[str] = None
-#     address: Optional[str] = None
-#     city: Optional[str] = None
-#     description: Optional[str] = None
-
-# class ClientCreate(ClientBase):
-#     pass
-
-# class Client(ClientBase):
-#     id: int
-
-#     class Config:
-#         from_attributes = True  # en lugar de orm_mode en Pydantic v2
+# Importamos BaseModel de Pydantic
+# BaseModel nos permite definir "plantillas" de datos y validar que sean correctos
 from pydantic import BaseModel
 
-# Esquema base (compartido entre Create y Client completo)
+# ---------------------------------------------------
+# Esquema base (lo que todos los clientes tienen)
+# ---------------------------------------------------
 class ClientBase(BaseModel):
-    name: str
-    email: str
-    telephone: str | None = None
-    address: str | None = None
-    city: str | None = None
-    description: str | None = None
+    # Campos obligatorios (siempre deben venir)
+    name: str          # Nombre del cliente
+    email: str         # Correo electrónico del cliente
 
-# Para crear cliente (request body)
+    # Campos opcionales (pueden venir o no)
+    telephone: str | None = None   # Teléfono del cliente
+    address: str | None = None     # Dirección
+    city: str | None = None        # Ciudad
+    description: str | None = None # Descripción adicional
+
+# ---------------------------------------------------
+# Esquema para CREAR cliente
+# ---------------------------------------------------
 class ClientCreate(ClientBase):
+    # Este esquema se usa cuando enviamos datos para crear un cliente
+    # Hereda todos los campos de ClientBase
+    # No necesita nada más por ahora
     pass
 
-# Para leer cliente (response body)
+# ---------------------------------------------------
+# Esquema para LEER cliente (respuesta)
+# ---------------------------------------------------
 class Client(ClientBase):
+    # Además de los campos de ClientBase, agregamos el id
+    # porque cuando obtenemos datos de la DB siempre queremos saber su identificador
     id: int
 
     class Config:
-        from_attributes = True  # En Pydantic v2 (antes era orm_mode = True)
+        # Permite que Pydantic pueda trabajar con objetos de SQLAlchemy
+        # Convierte automáticamente objetos de la DB en modelos Pydantic
+        from_attributes = True
 
+# ---------------------------------------------------
+# Explicación general:
+# - ClientBase: define los campos comunes que siempre tiene un cliente
+# - ClientCreate: se usa cuando enviamos datos para crear o actualizar un cliente
+# - Client: se usa cuando devolvemos datos al usuario (incluye id)
+# FastAPI usa estos modelos para validar que los datos de entrada y salida sean correctos
