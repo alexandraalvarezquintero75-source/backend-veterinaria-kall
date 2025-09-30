@@ -75,7 +75,7 @@ def update_client(client_id: int, client: ClientCreate, db: Session = Depends(ge
         raise HTTPException(status_code=404, detail="Client not found")
     return db_client
 
-# Eliminar cliente (daut/{client_id})
+# Eliminar cliente (daut/{client_idd})
 @router.delete("/daut/{client_id}")
 def delete_client(client_id: int, db: Session = Depends(get_db)):
     db_client = crud.delete_client(db, client_id=client_id)
